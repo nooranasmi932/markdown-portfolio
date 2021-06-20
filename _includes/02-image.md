@@ -1,3 +1,2 @@
-This image was taken from a video how to use this feature
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png
+This image was taken from Instagram from their github page. 
+![Image](https://www.instagram.com/p/CP6msM-jlLm/?utm_medium=copy_link) 
